@@ -1,0 +1,23 @@
+{
+	"name": "StrawberryPunch",
+	"short_name": "StrawberryPunch",
+	"description": "Cute Online Multiplayer Pixel Punching",
+	"start_url": "index.html",
+	"display": "standalone",
+	"orientation": "any",
+	"background_color": "#ffffff",
+	"icons": [
+		{
+			"src": "icons/appicon3.png",
+			"sizes": "128x128",
+			"type": "image/png"
+		},
+		{
+			"src": "icons/appiconmaskable.png",
+			"sizes": "200x200",
+			"type": "image/png",
+			"purpose": "maskable"
+		}
+	],
+	"theme_color": "#ffffff"
+}
