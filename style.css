@@ -3,7 +3,7 @@ html, body {
 	margin: 0;
 	overflow: hidden;
 	
-	background: #4a2d66;
+	background: #000000;
 	color: white;
 }
 
@@ -36,9 +36,4 @@ html, body, canvas {
 	color: #888;
 }
 
-
-@font-face {
-	font-family: 'opendyslexic-regular';
-	src: url('fonts/opendyslexic-regular.otf') format('opentype');
-}
 
